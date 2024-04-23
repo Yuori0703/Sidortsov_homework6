@@ -115,3 +115,4 @@ class TestMainCheck():
     def test_main_check_not_bool(self):
         from homework6 import main_check
         assert not isinstance(main_check(), bool)
+# Тесты суперские, есть все основные проверки, реализация верная
